@@ -2,7 +2,7 @@
 ### My name is Thalyta Mendonça!
 
 - :books: I'm Electronic Engineering student
-- 💻 I'm a devops analyst at RNP.
+- 💻 I'm a devops analyst at Justa.
 
 ## Skills
 
