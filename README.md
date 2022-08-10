@@ -2,7 +2,7 @@
 ### My name is Thalyta Mendonça!
 
 - :books: I'm Electronic Engineering student
-- 💻 I'm a devops analyst at Justa.
+- 💻 I'm SRE at Zé Delivery.
 
 ## Skills
 
