@@ -23,13 +23,6 @@
 <div>
 <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" target="_blank"> 
-<img src="https://img.shields.io/badge/graylog-%23FF3633.svg?&style=for-the-badge&logo=graylog&logoColor=white" />
-</div>
-
-
-<div>
-<a href="https://github.com/thalytasousa">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalytasousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
   
