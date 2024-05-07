@@ -1,7 +1,7 @@
 ## :earth_americas: 👋 Hello! Welcome to my Github profile.
 ### My name is Thalyta Mendonça!
 
-- :books: I'm Electronic Engineering student
+- :books: I'm an Electronic Engineer.
 - 💻 I'm SRE at Zé Delivery.
 
 ## Skills
