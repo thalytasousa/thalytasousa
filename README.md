@@ -2,7 +2,7 @@
 ### My name is Thalyta Mendonça!
 
 - :books: I'm an Electronic Engineer.
-- 💻 I'm SRE at Zé Delivery.
+- 💻 I'm DevOps Engineer at GRiT Solutions.
 
 ## Skills
 
